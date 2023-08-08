@@ -5,8 +5,8 @@
 int main()
 {
     string user = "root";
-    string passwd = "Feng_kd1376352437";
-    string databasename = "myserver";
+    string passwd = "root";
+    string databasename = "name";
 
     Config config;
     webserver m_webserver;

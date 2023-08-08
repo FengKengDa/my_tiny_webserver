@@ -35,7 +35,7 @@ public:
 Config::Config()
 {
         
-    PORT = 7456;
+    PORT = 10086;
 
     //日志写入方式，默认同步
     LOGWrite = 0;
